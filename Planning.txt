@@ -2,4 +2,5 @@ maandag: studeren wiskunde
 dinsdag: onderzoeksvragen
 woensdag: schema Nederlands afwerken
 donderdag: niks
-vrijdag: niks
+vrijdag: kunst
+zaterdag: niks
